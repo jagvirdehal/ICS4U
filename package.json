@@ -1,0 +1,23 @@
+{
+  "name": "ics4u0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^4.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagvirdehal/ICS4U0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagvirdehal/ICS4U0/issues"
+  },
+  "homepage": "https://github.com/jagvirdehal/ICS4U0#readme"
+}
